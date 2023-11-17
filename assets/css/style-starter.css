@@ -15965,7 +15965,7 @@ ul.w3l-right-book li span {
 /*--//w3l-why--*/
 /*--/stats--*/
 .w3l-stats {
-  background: url(../images/banOne.jpg) no-repeat top;
+  background: url(../images/banTwo.jpg) no-repeat center;
   -ms-background-size: cover;
   background-size: cover;
   z-index: 0;
@@ -16238,7 +16238,7 @@ div#owl-demo2 .owl-dots {
 /*--//testimonials--*/
 .inner-banner {
   min-height: 300px;
-  background: url(../images/p.jpg) no-repeat top;
+  background: url(../images/bantop1.jpg) no-repeat center;
   -ms-background-size: cover;
   background-size: cover;
   z-index: 0;
