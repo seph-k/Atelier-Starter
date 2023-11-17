@@ -15252,7 +15252,7 @@ nav ul li a:hover {
 
 .w3l-main-slider .banner-view {
   min-height: calc(100vh - 20px);
-  background: url(../images/q.jpg) no-repeat center;
+  background: url(../images/a1.jpg) no-repeat center;
   -ms-background-size: cover;
   background-size: cover;
   z-index: 0;
@@ -15263,15 +15263,15 @@ nav ul li a:hover {
 }
 
 .w3l-main-slider .banner-view.banner-top1 {
-  background: url(../images/g.jpg) no-repeat center;
+  background: url(../images/a3.jpg) no-repeat center;
 }
 
 .w3l-main-slider .banner-view.banner-top2 {
-  background: url(../images/j.jpg) no-repeat center;
+  background: url(../images/a4.jpg) no-repeat center;
 }
 
 .w3l-main-slider .banner-view.banner-top3 {
-  background: url(../images/h.jpg) no-repeat center;
+  background: url(../images/a5.jpg) no-repeat center;
 }
 
 .w3l-main-slider .banner-view:before {
@@ -15965,7 +15965,7 @@ ul.w3l-right-book li span {
 /*--//w3l-why--*/
 /*--/stats--*/
 .w3l-stats {
-  background: url(../images/o.jpg) no-repeat center;
+  background: url(../images/banOne.jpg) no-repeat top;
   -ms-background-size: cover;
   background-size: cover;
   z-index: 0;
